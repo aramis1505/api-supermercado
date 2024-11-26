@@ -1,6 +1,0 @@
-[
-    { "id": 1, "nombre": "Manzana", "precio": 1.2 },
-    { "id": 2, "nombre": "Leche", "precio": 3.5 },
-    { "id": 3, "nombre": "Pan", "precio": 0.8 },
-    { "id": 4, "nombre": "Huevos", "precio": 2.5 }
-]
