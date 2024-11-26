@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Manzana",
+        "precio": 1.2,
+        "imagen": "https://via.placeholder.com/150?text=Manzana"
+    },
+    {
+        "id": 2,
+        "nombre": "Leche",
+        "precio": 3.5,
+        "imagen": "https://via.placeholder.com/150?text=Leche"
+    },
+    {
+        "id": 3,
+        "nombre": "Pan",
+        "precio": 0.8,
+        "imagen": "https://via.placeholder.com/150?text=Pan"
+    },
+    {
+        "id": 4,
+        "nombre": "Huevos",
+        "precio": 2.5,
+        "imagen": "https://via.placeholder.com/150?text=Huevos"
+    }
+]
